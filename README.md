@@ -19,10 +19,9 @@ The Rural Library System is a web application designed to manage and streamline 
 - **User Roles**: Supports different user roles including supervisors and volunteers.
 - **Book Management**: Add, edit, delete, and view books.
 - **Member Management**: Add, edit, delete, and view members.
-- **Borrow Records**: Track book borrow and return dates.
+- **Borrow Records**: Track and edit borrowed books and return dates.
 - **Authentication**: Secure login and registration for users.
 - **Responsive Design**: Accessible on various devices with a responsive design.
-- **Multi-language Support**: Includes support for multiple languages.
 
 ## Technologies Used
 
@@ -37,8 +36,8 @@ To install and set up the Rural Library System locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/rural-library-system.git
-   cd rural-library-system
+   git clone https://github.com/Vitya31/Rural-Library-System.git
+   cd Rural-Library-System
 
 
 
