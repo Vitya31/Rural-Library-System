@@ -1,3 +1,48 @@
+# Rural Library System
+
+The Rural Library System is a web application designed to manage and streamline the operations of rural libraries. This system allows supervisors and volunteers to manage books, members, borrow records, and more efficiently.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+
+- **User Roles**: Supports different user roles including supervisors and volunteers.
+- **Book Management**: Add, edit, delete, and view books.
+- **Member Management**: Add, edit, delete, and view members.
+- **Borrow Records**: Track book borrow and return dates.
+- **Authentication**: Secure login and registration for users.
+- **Responsive Design**: Accessible on various devices with a responsive design.
+- **Multi-language Support**: Includes support for multiple languages.
+
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap 4
+- **Backend**: PHP, Laravel 10.48.10
+- **Database**: MySQL
+- **Others**: XAMPP, Composer
+
+## Installation
+
+To install and set up the Rural Library System locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/rural-library-system.git
+   cd rural-library-system
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
